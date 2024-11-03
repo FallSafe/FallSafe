@@ -1,5 +1,4 @@
 import nodemailer from "nodemailer";
-import { VERIFICATION_EMAIL_TEMPLATE } from "../email/emailTemplates";
 import dotenv from "dotenv";
 dotenv.config();
 
